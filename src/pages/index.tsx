@@ -1,15 +1,17 @@
+import Head from 'next/head'
+
 import { CompletedChallenges } from "../components/CompletedChallenges";
 import { Countdown } from "../components/Countdown";
 import { ExperienceBar } from "../components/ExperienceBar";
 import { Profile } from '../components/Profile';
-
-import Head from 'next/head'
+import { ChallengeBox } from "../components/ChallengeBox";
 
 import styles from '../styles/pages/Home.module.css'
 
+
 export default function Home() {
   return (
-    <div className={ styles.container }>
+    <div className={styles.container}>
       <Head>
         <title>Inicio | move.yourself</title>
       </Head>
@@ -23,7 +25,7 @@ export default function Home() {
         </div>
 
         <div>
-
+          <ChallengeBox />
         </div>
       </section>
     </div>
