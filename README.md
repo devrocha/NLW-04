@@ -3,7 +3,7 @@
 
 <!-- descrição -->
 ## Desenvolvido durante a NLW04 da rocketseat
-***
+
 Tabela de Conteúdos
 ===================
 <!--ts-->
