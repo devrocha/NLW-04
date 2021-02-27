@@ -46,8 +46,8 @@ Tecnologias Utilizadas
 
 ## Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
-<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQG02a-s248Xgw/profile-displayphoto-shrink_800_800/0/1603582498543?e=1619654400&v=beta&t=PeqvsBemetBGzkOnJ9zb0AcDeV6Zc0ZZ7ecQpUvAsfM" width="100px;" alt=""/>
+<a href="https://app.rocketseat.com.br/me/mrochasandim75-1601037404942">
+<img style="border-radius: 50% ;" src="https://media-exp1.licdn.com/dms/image/C4D03AQG02a-s248Xgw/profile-displayphoto-shrink_800_800/0/1603582498543?e=1619654400&v=beta&t=PeqvsBemetBGzkOnJ9zb0AcDeV6Zc0ZZ7ecQpUvAsfM" width="100px;" alt=""/>
 <br />
 <sub><b>Matheus Rocha</b></sub></a> <a href="https://app.rocketseat.com.br/me/mrochasandim75-1601037404942" title="Rocketseat">🚀</a>
 
