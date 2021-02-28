@@ -4,7 +4,7 @@
 <!-- descrição -->
 ## Desenvolvido durante a NLW04 da rocketseat
 O MoveYourself utiliza a técnica de pomodoro que visa melhorar o foco, produtividade e saúde.
-***
+
 Tabela de Conteúdos
 ===================
 <!--ts-->
