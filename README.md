@@ -1,8 +1,9 @@
 <!-- titulo -->
-# NLW04
+# NLW04 - MoveYourself
 
 <!-- descrição -->
 ## Desenvolvido durante a NLW04 da rocketseat
+O MoveYourself utiliza a técnica de pomodoro que visa melhorar o foco, produtividade e saúde.
 ***
 Tabela de Conteúdos
 ===================
@@ -14,6 +15,7 @@ Tabela de Conteúdos
    * [Status do Projeto](#status-do-projeto)
    * [Tecnologias Utilizadas](#tecnologias-utilizadas)
    * [Autor](#autor)
+   * [Licença](#licença)
 <!--te-->
 
 Pré Requisitos
@@ -44,8 +46,17 @@ Tecnologias Utilizadas
 * [TypeScript](https://www.typescriptlang.org/)
 * [Nextjs](https://nextjs.org/)
 
-## Autor
+Licença
+===========
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+</a>
+<br>
 
+Esse projeto está sob a licença MIT. acesse [LICENSE](/LICENSE) para detalhes.
+
+Autor
+===========
 <a href="https://blog.rocketseat.com.br/author/thiago/">
 <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQG02a-s248Xgw/profile-displayphoto-shrink_800_800/0/1603582498543?e=1619654400&v=beta&t=PeqvsBemetBGzkOnJ9zb0AcDeV6Zc0ZZ7ecQpUvAsfM" width="100px;" alt=""/>
 <br />
