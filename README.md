@@ -30,7 +30,7 @@ git clone https://github.com/devrocha/NLW-04.git
 ```
 Depois de clonado instale as dependências:
 ```
-yarn install
+yarn
 ```
 Agora basta startar:
 ```
