@@ -38,7 +38,7 @@ yarn dev
 ```
 Status do Projeto
 ===========
-[Deploy](https://moveyourself-xi.vercel.app/) ok, mas em breve novidades :satisfied: :rocket: :rocket: 
+[Deploy](https://moveyourself-xi.vercel.app/) ok :rocket: :rocket: 
 
 Tecnologias Utilizadas
 ===========
